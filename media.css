@@ -1,0 +1,296 @@
+
+
+@media(min-width: 400px){
+
+	#tecnologias{width:;}
+
+	.tecs{margin:5px 10px;}
+         
+    header{height:500px;}
+
+    #menu li{transform: translateY(170px)}
+
+    #btnPai{margin-left: 85%;}
+    
+    #chamadaNome{padding-top:150px;}
+
+    #btnFechar{color: #fff;margin-left: 89%;}
+
+
+    /*Seção Sobre*/
+
+
+    /*Portfólio-----------------------*/    
+
+    article{width:100%;height:px;background: ;margin: auto;transform: translateY(65px);}
+
+    article > h1{font-size: 20px;}
+
+    
+    .content-work{background:;height:250px;}
+
+    .img-site{width:100%}
+
+    /*Serviços------------------------------*/
+
+    
+
+    
+}
+
+@media(min-width: 500px){
+	
+
+	header{height:550px;}
+
+    #chamadaNome{padding-top:200px;}
+}
+
+
+@media(min-width: 700px){
+
+	header{height:400px}
+
+	#content-header{flex-direction:row;background:;}
+
+	.tecs{width:9%;margin:5px 25px;}	
+
+	#menu {transform: translateX(-103%);position:absolute;width: 100%;top:0;}
+
+	#menu ul{display: flex;width:95%;margin-top: 0px;height:70px;}
+
+	#menu li{list-style: none;color: #fff;text-align: center;transform: translateY(0px);padding: 25px;margin-left:20%;}
+
+	#btnPai{margin-left:90%;}
+
+	#btnFechar{color: #fff;margin-left: 88%;}
+
+	#foto img{width: 70%}	
+
+	#chamadaNome{margin-top:0px;padding-top: 150px;}
+
+	#meuNome{font-size: 25px;}
+
+	#personalizado{font-size:16px}
+
+	#botao{padding:10px ;}
+
+	footer{height:350px;}
+
+	.img-redes{width:25%;} 
+
+	#bloco-footer{flex-direction:row;}
+
+	.content-footer{width:20%;height:200px;margin:80px auto;}	
+
+	/*Sobre---------------------------*/
+
+	#sobre{width:70%;height:550px}
+
+	.content-sobre > img{width: 30%;border-radius: 50%;}
+
+
+	/*Portfólio--------------------------*/	
+
+	#work{width:100%;height:350px;display: flex;flex-direction:row;margin: auto;justify-content: space-evenly;}
+
+	.content-work{width:30%;height:250px;margin-top:150px;}
+
+	/*Serviços---------------------------*/
+
+	#servicos{flex-direction:row;flex-wrap: wrap;justify-content: space-evenly;padding:50px 0px;}
+
+   .content-services{width:45%;height:190px;margin-top:50px;padding: 20px 0px;border: none;background: #eeeeee;}
+
+   .content-services > img{width:16%;display: block;margin: auto;}
+
+    .content-services > h2{color: #333;}   
+
+   .content-services > p{font-size: 15px;color: #000;}
+
+}
+
+@media(min-width: 900px){
+
+	.tecs{width:7%;}
+	
+	#btnPai{margin-left:90%;}
+}
+
+
+@media(min-width: 1000px){	
+     
+    header{height:480px;}
+
+    #tecnologias{background:;margin-top: 25px;}
+
+    .tecs{width:7%;margin-left:25px;}	
+}
+
+
+
+@media(min-width: 1024px){
+
+	main{width:98%;}
+
+
+
+	
+	#btn-topo{display: block;margin:20px auto;background:;width:20%;}
+
+	#btn-topo > img{width:25%;display: block;margin: auto;padding: 20px 0px;cursor: pointer;}
+
+	header{margin-top:92px;height: 380px;}
+
+	#menu {transform: translateX(0%);width:98%;box-shadow: 2px 2px 5px #555;margin:20px auto;height: 70px;}
+
+	#menu ul{background:transparent;height:70px;width:25%;margin-top:0px;margin-left:50%;}
+
+	#menu li{color: #333;transform: translateY(0px);padding: 25px ;}
+
+	#menu li:hover{font-weight: bold;}
+
+	#tecnologias{}
+
+	.tecs{width:8%;}
+
+	#btnPai{margin-left:83%;display: none;}	
+
+    #btnFechar{margin-left: 70%;display: none;}
+
+    #chamadaNome{width:100%;}
+
+    #meuNome{font-size: 40px;}
+
+    #foto img{width:60%}
+
+    #autor{background: ;margin-top:0px;}
+
+    footer{margin-top: 30px;}
+
+    .img-redes{width:20%;}
+
+    /*Sobre---------------------------------*/
+
+    #sobre{width:70%;height:550px;background:;flex-direction:row;flex-wrap: wrap;margin:auto;transform: translateY(9%);}
+
+    .content-sobre{width:50%;background: ;}
+
+    .content-sobre > img{width:70%;border-radius: 2%;}
+
+    .content-sobre > h1,h2{text-align: left;margin-left: 0%;}
+
+    .content-sobre > h1{font-size:22px;padding-top: 30px;}
+
+    .content-sobre > p{text-align: left;margin-left:0% ;font-size:14px;}
+
+    #botao-sobre{width:50%;margin: 20px 0px;}
+
+    /*Portfólio-------------------*/
+
+    .header-portfolio{height: 440px;}
+   
+    article > h1{font-size: 25px;}
+
+    #work{height:950px;flex-wrap: wrap;background:;margin-top: 120px;}
+
+	.content-work{width:48%;height:300px;margin-top:20px;background:;}
+
+	.content-work:nth-child(3){width: 96%;height:650px;margin-top: 100px;}
+
+	[data-anima="esquerda"]{transform: translate3d(-15px, 0px, 0px);}
+    [data-anima="direita"]{transform: translate3d(0px, 50px, 0px);}
+    [data-anima="centro"]{transform: translate3d(15px, 0px, 0px);}
+
+    /*Serviços-----------------*/
+
+	#servicos{flex-direction:row;flex-wrap: wrap;justify-content: space-evenly;padding:100px 0px;}
+
+   .content-services{width:48%;}   
+    
+
+}
+
+@media(min-width: 1280px){
+
+	#menu{width: 98%;}	
+
+	#tecnologias{margin-top:px;}
+         
+    .tecs{width:7%;} 
+
+    header{height: 510px;}
+
+    #foto img{width: 70%;}  
+    #foto2 img{width: 70%;}  
+
+    #content-header{flex-direction:row;width: 70%;justify-content: center;align-items: center;margin: auto;}
+
+    #chamadaNome{}  
+
+    #meuNome{padding-top:100px;}
+
+    .content-services{width:42%;}
+
+    /*sobre-------------------*/
+
+    .header{height: 510px;}
+
+    #sobre{transform: translateY(23%);background:;width:60%;height:350px}
+    
+    .content-sobre{background: ;width: 40%;}
+
+    .content-sobre > img{width:70%;}
+
+    /*portfolio-----------------*/
+
+    #work{height:1200px;margin-top: 100px;}
+
+    article > h1{font-size: 35px;}
+
+    .content-work{width:48%;height:150px;background:;margin-top:;}
+
+    .content-work:nth-child(3){width: 96%;height:px;margin-top: 250px;}
+
+    .header-portfolio{height: 510px;}
+
+    /*Serviços-----------------------*/
+
+    .content-services > img{width:12%;}   
+
+}
+
+
+@media(min-width: 1366px){
+    
+    .content-services{width:37.5%;}    
+
+}
+
+
+@media(min-width: 1920px){
+
+	#foto img{width: 60%;}  
+     
+
+	.header-portfolio{height:570px;margin-top:90px;}
+
+	#btnPai{width: 80px;margin-left:92%;background:;padding-top: 10px;transform: translateY(30px);}
+
+	.hamburger{width:65px;height:10px;margin-top:5px;}
+
+	#tecnologias{width:40%;height:70px;margin-top: 20px;background:;}
+
+	.tecs{width:5%;} 
+
+	/*Portfolio------------------*/
+
+	 #work{height:1650px;margin-top: 100px;}
+
+	/*Sobre--------------------*/
+
+	.content-sobre > img{width:60%;}
+
+	#autor{font-size: 12pt;}
+}
+
