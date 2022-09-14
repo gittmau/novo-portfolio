@@ -110,6 +110,8 @@
 }
 
 @media(min-width:768px){
+	
+	    header{height:350px;
        
 	   #btnFechar{margin-left: 93%;}
 	   
