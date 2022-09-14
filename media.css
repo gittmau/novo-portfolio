@@ -195,15 +195,7 @@
 
     .content-sobre > p{text-align: left;margin-left:0% ;font-size:14px;}
 
-    #botao-sobre{width:50%;margin: 20px 0px;}
-
-    #titulo-certificado{margin-top: 70px;font-size: 35px;margin-bottom: 50px;text-align: left;background:;width:25%;margin-left: 3%;}
-
-	#certifica{display: flex;flex-direction:row;background:;justify-content:space-around;width:100%;margin: auto;padding: 25px 0px;}
-
-	.content-certificado{width:450px;background: #fff;margin-top: 0;}
-
-	.content-certificado > img{display: block;margin: auto;height:500px;}
+    #botao-sobre{width:50%;margin: 20px 0px;}   
 	
 	form > h1{font-size:30px}
 
@@ -281,11 +273,9 @@
 
     /*Serviços-----------------------*/
 	
-	 .content-services > p{padding:45px}
+   .content-services > p{padding:45px}
 
     .content-services > img{width:12%;}   
-
-    #titulo-certificado{margin-left:7%;}
 
 }
 
@@ -306,7 +296,6 @@
 
 	/*Sobre-----------------------*/
 
-	 #titulo-certificado{margin-left:110px;}
 }
 
 
