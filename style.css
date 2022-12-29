@@ -33,7 +33,15 @@ nav li{list-style: none;padding: 80px 0px}
 
 #perfil{width:100%;height:250px;margin: auto;background:;position:;display: flex;flex-direction: column;justify-content: center;align-items: center;margin-top: 80px}
 
-.content-perfil > img{width:150px;border-radius:50%;border:5px solid #fff;box-shadow: 1px 1px 6px #fff}
+.content-perfil > img{width:150px;border-radius:50%;border:5px solid #fff;box-shadow: 1px 1px 6px #fff;animation:anima-foto infinite alternate 1s;}
+
+@keyframes anima-foto{
+     
+     0%{border: 1px solid #fff}
+     50%{margin-left: 20px}
+     100%{border: 10px solid #CFD0D2}
+
+}
 
 .nome-perfil{font-size:1.2em;font-family: 'Poppins', sans-serif;padding:15px}
 
@@ -71,7 +79,7 @@ textarea{height:100px}
 #title-form{text-align: center;}
 
 
-footer{background-image: url('fundo.jpg');background-position:center;background-size: cover;height:280px}
+footer{background-image: url('fundo-3.gif');background-position:center;background-size: cover;height:280px}
 
 .content-footer{width:80%;margin: auto;}
 
