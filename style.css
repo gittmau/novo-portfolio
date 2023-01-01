@@ -200,18 +200,16 @@ article,#work,figcaption{text-align: center;padding:25px}
    form input,textarea{width:70%;padding:20px}
 
    textarea{height:200px}
+	
+   button{box-sizing:border-box}	
 
    button:hover{background: #fff;border:1px solid #ccc;color:#000;}
 }
 
 
-@media(min-width:1500px){
+@media(min-width:1500px){	
 
-	
-
-	#capa{width:100%;height:100vh;}
-
-	#sobre{width:100%;}
+    #sobre{width:100%;}
 
     .content-sobre > p{width:750px;font-size:1.3em}
 
