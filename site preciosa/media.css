@@ -1,0 +1,794 @@
+@media ( largura mínima : 340 px ){
+
+    # logotipo { largura : 24 % ;}   
+
+    . limites { margem esquerda : 100 px ;}
+
+    # navbar { largura : 17 % ; margem : -6 px  82 % ;}
+
+    # btnFechar { margem : 4 px  87 % ;}
+    
+    # repita { text-align : center; preenchimento : 130 px  10 px ; tamanho da fonte : 20 pt }
+    
+    
+}
+
+
+@media ( largura mínima : 360 px ){
+       
+    # logotipo { largura : 22,5 % ;}    
+
+    . limites { margem esquerda : 105 px ;}
+
+    . estoques { margem esquerda : 110 px ;}
+
+    # navbar { largura : 16 % ; margem : -5 px  82 % ;}
+
+    # btnFechar { margem : 4 px  87,5 % ;}
+
+    # repita { preenchimento : 120 px  5 px ;}
+
+    # camurça  h2 { preenchimento :  100 px  19 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  19 px }
+
+    # curto  >  h2 { preenchimento :  100 px  19 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  19 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  19 px }
+
+    # sobre { altura : 850 px ;}
+
+    # social { altura : 60 px ;}
+
+    # rosto { margem esquerda : 24 % }    
+    
+     .box{width:320px}
+
+
+
+
+}     
+
+@media ( largura mínima : 370 px ){
+
+    # logotipo { largura : 22 % ;}
+
+    # navbar { largura : 16 % ; margem : -6 px  82 % ;}
+
+    # repita { preenchimento :  130 px  0 px ; tamanho da fonte : 22 pt ;}
+
+    . limites { margem esquerda : 115 px }
+
+    # sobre { altura : 750 px ;}
+
+    # social { plano de fundo : #eeeeee ; largura : 100 % ; altura : 55 px ; margem superior :  25 px }
+
+    # face , # insta , # zap { largura : 15 % ;}
+
+    # rosto { margem esquerda : 26 % }
+
+    # camurça  >  h2 { preenchimento :  100 px  20 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  20 px }
+
+    # curto  >  h2 { preenchimento :  100 px  20 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  20 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  20 px }
+    
+    # direitos  p { tamanho da fonte : 8 pt }
+}    
+
+    
+}
+
+@media ( largura mínima : 380 px ){
+      
+    # logotipo { largura : 21 % ;}   
+
+    . limites { margem esquerda : 105 px ;}
+
+    # barra de navegação { largura : 8 % ;}
+}
+
+@media ( largura mínima : 400 px ){
+
+    # logotipo { largura : 20 % ;}
+
+    # navbar { largura : 16 % ; margem : -8 px  82 % ;}
+
+    # repita { preenchimento :  120 px  0 px ;}    
+
+    . limites { margem esquerda : 125 px ;}
+
+    . estoques { margem esquerda : 110 px }
+
+    # social { altura : 57 px ;}
+
+    # face , # insta , # zap { largura : 14 % ;}
+
+    # rosto { margem esquerda : 29 % }
+
+    /*Sobre-------------------*/
+
+    # sobre { altura : 750 px ;}
+
+    # camurça  >  h2 { preenchimento :  100 px  23 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  23 px }
+
+    # curto  >  h2 { preenchimento :  100 px  23 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  23 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  23 px }
+}
+
+@media ( largura mínima :  410 px ){
+
+    # logotipo { margem : 3 px  4 px }
+
+    #navbar { largura : 15 % ; _ margem : -7 px  82,5 % ;}
+    
+   # repita { preenchimento : 120 px  5 px ; tamanho da fonte : 22 pt }
+
+    # camurça  >  h2 { preenchimento :  100 px  23 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  23 px }
+
+    # curto  >  h2 { preenchimento :  100 px  23 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  23 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  23 px }
+
+    # social { altura : 58 px ;}
+
+    # face , # insta , # zap { largura : 14 % }
+
+    # rosto { margem esquerda : 29 % }
+    
+    
+}
+
+
+@media ( largura mínima : 420 px ){
+
+    # logotipo { largura : 19 % ;}    
+
+    . limites { margem esquerda : 102 px ; tamanho da fonte : 11 pt ;}
+}
+
+
+@media ( largura mínima : 440 px ){
+
+    # logotipo { largura : 18 % ;}    
+
+   . limites { margem esquerda : 102 px ; tamanho da fonte : 16 pt ;}
+
+    # navbar { largura : 14 % ; margem : -7 px  82,5 % ;}
+
+    . estoques { margem esquerda : 100 px ; tamanho da fonte :  11 pt }
+
+    /*Sobre-------------------*/
+
+    # sobre { altura : 700 px ;}
+
+    # social { altura : 61 px ;}
+}
+
+
+@media ( largura mínima : 460 px ){
+
+    # logotipo { largura : 17 % ;}     
+
+    # navbar { largura : 14 % ; margem : -8 px  82,5 % ;}
+    
+    
+}
+
+@media ( largura mínima : 470 px ){
+
+    # navbar { largura : 13 % ; margem : -7 px  82,5 % ;}    
+}
+
+
+
+@media ( largura mínima : 480 px ){
+
+    # logotipo { largura : 17 % ;}
+
+    # navbar { largura : 13 % ; margem : -7 px  83 % ;}
+
+    . limites { margem esquerda : 110 px ; tamanho da fonte : 17 pt ;}   
+
+    # repita { preenchimento :  130 px  0 px ; tamanho da fonte : 22 pt }    
+
+    . estoques { margem esquerda : 120 px ;}
+
+    # btnFechar { margem : 4 px  88 % ;}
+
+    # face , # insta , # zap { largura : 13 % }
+}
+
+
+@media ( largura mínima : 500 px ){
+
+    # logotipo { largura : 16 % ;}    
+
+    # navbar { largura : 12 % ; margem : -6 px  83,8 % ;}  
+
+    # repita { preenchimento :  110 px  0 px ; cor : #fff ; _ tamanho da fonte : 26 pt ;}
+
+    /*Sobre-----------------*/
+
+    # banner-sobre { largura : 100 % ; altura : 200 px ;}
+
+    # sobre { altura : 700 px ;}
+
+    # sobre  >  p { font-family : lato; alinhamento de texto : centro; preenchimento : 20 px ;}
+
+    # social { altura : 72 px ;}
+
+    # face , # insta , # zap { largura : 12 % ;}
+
+    # rosto { margem esquerda : 33 % }
+
+    # black_friday_home { background : # 000 ; margem superior : 170 px }
+
+    # combo { largura : 99 % ;}
+    
+    # camurça , # camisetas , # short , # blusas , # manga_longa { display : flex; flex-direction : linha; largura : 100 % ; altura : 500 px ; margem superior : 0 px ;}
+
+    . caixa { largura : 100 % ; altura : 270 px }
+
+    . img_box { largura : 98 % ; altura : 180 px ;}
+
+    . caixa  >  p { tamanho da fonte : 8 pt ;}
+
+    . precos { tamanho da fonte :  9 pt }
+
+    # camurça >  h2 { preenchimento :  100 px  10 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  10 px }
+
+    # curto  >  h2 { preenchimento :  100 px  10 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  10 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  10 px }
+    
+}
+
+
+@media ( largura mínima : 520 px ){
+
+    # logotipo { largura : 15 % ;}   
+
+    # navbar { largura : 12 % ; margem : -8 px  83,8 % ;}  
+
+    . limites { margem esquerda : 135 px ; tamanho da fonte : 15 pt ;}
+
+    . estoques { margem esquerda : 130 px ;}   
+        
+    # direitos  p { tamanho da fonte : 12 pt }
+    
+}
+
+
+@media ( largura mínima : 540 px ){
+
+    
+    . limites { margem esquerda : 150 px ;}
+
+    . estoques { font-size :  13 pt ; margem esquerda : 115 px }
+
+    # repita { preenchimento : 90 px  0 px ; cor : #fff ; _ tamanho da fonte : 30 pt ;}
+
+    # navbar { largura : 11 % ; margem : -6 px  84,5 % ;}
+
+    # btn_comprar { display : block; margem : -70 px auto;}
+
+    /*Sobre-----------------*/
+
+    # sobre { altura : 700 px ;}
+
+
+    
+}
+
+@media ( largura mínima : 560 px ){
+
+    # logotipo { largura : 14 % ; margem : 4 px  6 px }    
+
+    . limites { margem esquerda : 155 px ;}
+
+   # navbar { largura : 11 % ; margem : -6 px  84,5 % ;}
+    
+    # direitos  p { tamanho da fonte : 12 pt }
+    
+}
+
+@media ( largura mínima : 570 px ){
+
+    # logotipo { largura : 14 % ; margem : 4 px  6 px }    
+
+    . limites { margem esquerda : 155 px ;}
+
+   # navbar { largura : 11 % ; margem : -7 px  84,5 % ;}
+}
+
+@media ( largura mínima : 580 px ){
+
+    
+
+    . limites { margem esquerda : 170 px ;}
+
+     # navbar { largura : 11 % ; margem : -7 px  84,5 % ;}
+
+    . estoques { font-size :  13 pt ; margem esquerda : 140 px }
+
+    /*Sobre-----*/
+
+    # sobre { altura : 950 px ;}
+    
+}
+
+@media ( largura mínima : 600 px ){
+
+    # logotipo { largura : 13 % ;}    
+
+    . limites { margem esquerda : 145 px ; tamanho da fonte : 19 pt ;}
+
+     # navbar { largura : 11 % ; margem : -8 px  84,5 % ;}
+
+     /*Sobre-----*/
+
+     # sobre { altura : 700 px ;}
+    
+}
+
+@media ( largura mínima :  640 px ){
+
+    #navbar { largura : 10 % ; _ margem : -8 px  88 % ;}
+
+    # btnFechar { margem : 5 px  91 % ;}
+     
+    . limites { margem esquerda : 165 px ;}
+
+    . estoques { font-size :  15 pt ; margem esquerda : 140 px }
+
+     # repita { preenchimento : 90 px  0 px ; cor : #fff ; _ tamanho da fonte : 34 pt ;}
+
+    #combo { largura : 98 % ; _ altura : 350 px ; margem :  50 px auto;}
+
+    # banner-sobre { altura : 250 px ;}
+
+    # face , # insta , # zap { largura : 10 % }
+
+
+}
+
+@media ( largura mínima : 700 px ){
+
+    # logotipo { largura : 11 % ; margem : 5 px  20 px }    
+
+    . limites { margem esquerda : 200 px ;}
+
+    . estoques { font-size :  17 pt ; margem esquerda : 140 px }
+
+    # navbar { largura : 9 % ; margem : -8 px  88 % ;}
+
+    # btnFechar { margem : 4 px  91 % ;}
+
+    # camurça , # camisetas , # short , # blusas , # manga_longa { display : flex; flex-direction : linha; largura : 100 % ; altura : 500 px ; margem superior : 0 px ;}
+
+    # camurça  >  h2 { preenchimento :  100 px  15 px }
+
+    # camisetas  >  h2 { preenchimento :  100 px  15 px }
+
+    # curto  >  h2 { preenchimento :  100 px  15 px }
+
+    # blusas  >  h2 { preenchimento :  100 px  15 px }
+
+    # manga_longa  >  h2 { preenchimento :  100 px  15 px }
+
+    # combo { display : flex; flex-direction : linha; justificar-conteúdo : espaço ao redor; largura : 98 % ; altura : 60px ; _ margem : 10 px auto;}
+
+    . conteudo_combo { largura : 100 % ; altura : 100 px ; exibição : bloco; margem : 0  5 px ; margem superior :  10 px ;}    
+
+    . caixa { largura : 86 % ; altura : 320 px ;}
+
+    . img_box { largura : 90 % ; altura : 220 px ;}
+
+    . caixa  >  p { tamanho da fonte : 10 pt ;}
+
+     /*Sobre-----*/
+
+     # sobre { altura : 700 px ;}
+    
+}
+
+
+@media ( largura mínima : 768 px ){
+
+    # logotipo { largura : 10 % ; margem : 5 px  10 px }    
+
+    . limites { margem esquerda : 210 px ; tamanho da fonte : 20 pt ;}
+
+    . estoques { font-size : 20 pt ; margem esquerda : 140 px }
+
+    # navbar { largura : 8 % ; margem : -7 px  90 % ;}
+
+    # btnFechar { margem : 4 px  93 % ;}
+
+    # repita { preenchimento : 90 px  25 px ; tamanho da fonte : 35 pt ;}
+
+    # sobre { largura : 100 % ; altura : 650 px ; cor de fundo : /* #e8e0de*/;}
+
+    # sobre  h1 { font-family : 'Kufam' ; alinhamento de texto : centro; altura : 0 px ; largura : %}
+
+    # sobre  h2 { font-family :  'Architects Daughter' , cursive; estilo da fonte : itálico; cor : # ff0080 ; alinhamento de texto : centro; margem :  25 px  0 px ;}
+    
+    # social { altura : 54 px }
+
+    # face , # insta , # zap { largura : 7 % ;}
+    
+    # rosto { margem esquerda : 42 % }   
+
+    # banner-sobre { largura : 100 % ; altura : 280 px ; margem superior : 0 px ;}
+
+    # sobre  >  p { font-size : 14 pt ; alinhamento de texto : esquerda; largura :  50 % ;}   
+
+    /*-----------Sexta-feira preta--------------------------*/
+       
+   # black_friday { background : # 000 ; margem superior : 150 px }
+
+    # conteudo_black { margem superior :  100 px }
+
+    # conteudo_black , # conteudo_black2 , # conteudo_black3 , # conteudo_black4 { display : flex; largura : 100 % ; altura : px;}    
+
+    . imgs_black { largura : 80 % ; exibição : bloco; margem : 20 px automático}
+
+    # camurça , # camisetas , # short , # blusas , # manga_longa { display : flex; flex-direction : linha; largura : 100 % ; altura : 500 px ; topo : 0 px ;}
+
+    # combo { display : flex; flex-direction : linha; justificar-conteúdo : espaço ao redor; largura : 98 % ; altura : 120 px ; margem : 50 px auto;}
+
+    # camurça  >  h2 { preenchimento :  100 px  15 px ;}
+    # camisetas  >  h2 { preenchimento :  100 px  15 px ;}
+    # short  >  h2 { preenchimento :  100 px  15 px ;}
+    # blusas  >  h2 { enchimento :  100 px  15 px ;}
+    # manga_longa  >  h2 { preenchimento :  100 px  15 px ;}
+
+    . conteudo_combo { largura : 100 % ; altura : 100 px ; margem : 0  5 px ; margem superior :  10 px ;}
+
+    . caixa { largura : 90 % ; altura : 350 px ;}
+
+    . img_box { largura : 90 % ; altura : 250 px ;}
+
+    . precos { font-size : 10 pt ;}
+    
+    
+
+
+    rodapé { altura : 350 px ; margem superior : 100 px }
+    
+}
+
+
+@media ( largura mínima : 950 px ){
+
+    # logotipo { largura : 8 % ; margem : 5 px  20 px }    
+
+    . limites { margem esquerda : 0 px ; tamanho da fonte : 20 pt ; text-align : center;}
+
+    . estoques { font-size : 22 pt ; margem esquerda : 190 px }
+
+    # barra de navegação { exibição : nenhum;}
+
+    # menu { transform :  translateX ( 0 % );}
+
+    # menu  ul { display : flex; flex-direction : linha; largura : 100 % ; fundo : transparente; margem superior : 0 px ; margem esquerda : 30 % ; posição : relativa; altura :  0 px }
+
+    # menu  li { preenchimento : 14 px ; cor :  #fff ; _ font-family : 'Kufam' ; tamanho da fonte :  10 pt ; estilo de lista : nenhum;}
+
+    # menu  li : hover { background : # 444 ;}
+
+    # menu  a { altura :  0 px ;}
+
+    # banner { largura máxima : 100 % ; altura : 500 pixels }
+
+    # repita { preenchimento : 145 px  20 px ; tamanho da fonte : 35 pt ;}
+
+    # banner-sobre { largura : 100 % ; altura : 350 px ;}
+
+    # sobre { largura : 100 % ; altura : 750 px ;}
+
+    # sobre  p { contagem de colunas : 4 ; espaço entre colunas :  10 px ; regra da coluna :  1 px solid # 888 ; largura : 100 % ; preenchimento : 40 px  15 px ; margem : automática; alinhamento de texto : esquerda; tamanho da fonte : 11 pt }
+    
+    # social { altura : 60 px }
+
+    # face , # insta , # zap { largura : 6,5 % ;}
+    
+    # face { margem esquerda : 40 % }
+
+
+    /*Seções----------------------------------------*/
+
+    # camurça , # camisetas , # short , # blusas , # manga_longa { display : flex; flex-direction : linha; largura : 100 % ; altura : 580 px ; margem superior : 0 px ;}
+
+    # suede  >  h2 { font-family : 'Kufam' ; cor : # ff0080 ; preenchimento : 100 px  15 px ; altura : 0 ; posição : absoluto;}
+
+   . caixa { largura : 30 % ; altura : 380 px ; margem :  0 automático; margem superior : 150 px ;}
+
+   . img_box { largura : 100 % ; altura : 280 px ; exibição : bloco; margem : 0 auto;}
+
+   # combo { display : flex; flex-direction : linha; justificar-conteúdo : espaço ao redor; largura : 98 % ; altura : 126 px ; margem :  50 px auto;}
+
+   . conteudo_combo { largura : 100 % ; altura : 100 px ; margem superior :  10 px ;}
+
+   . conteudo_combo  p { tamanho da fonte :  14 pt ;}
+   
+   . precos { font-size : 12 pt ;}
+
+   rodapé { altura : 400 px ; margem superior :  100 px }
+
+   # direitos { posição : parente; índice z : 7 ;}
+
+    
+}
+
+
+@media ( largura mínima : 1000 px ){
+    
+    . estoques { font-size : 22 pt ; margem esquerda : 200 px }
+     
+}
+
+
+@media ( largura mínima : 1024 px ){
+
+    # repita { preenchimento : 128 px  20 px ; tamanho da fonte : 35 pt ;}
+
+    . estoques { font-size : 22 pt ; margem esquerda : 220 px }
+
+     
+    /*Sobre---------------*/
+
+    # sobre { largura : 100 % ; altura : 800 px ;}
+
+    # sobre  p { preenchimento :  40 px  36 px }
+    
+    # social { altura : 50 px ;}
+
+    # face , # insta , # zap { largura : 5 % ;}
+    
+    # rosto { margem esquerda : 42 % }
+
+    # black_friday { margem superior : 150 px }
+
+    . oferta_black { preenchimento :  0 px }
+
+    
+    vídeo { altura : 400 px ;}
+
+    . imgs_black { largura : 80 % ;}
+
+    # camurça  >  h2 { preenchimento :  100 px  38 px ;}
+    # camisetas  >  h2 { preenchimento :  100 px  38 px ;}
+    # curto  >  h2 { preenchimento :  100 px  38 px ;}
+    # blusas  >  h2 { enchimento :  100 px  38 px ;}
+    # manga_longa  >  h2 { preenchimento :  100 px  38 px ;}
+
+    # combo { largura : 93 % ;}
+
+    . conteudo_combo { margem : 30 px  2 px ; box-shadow :  1 px  6 px  5 px  # dddddd }
+    
+    . conteudo_combo  p { tamanho da fonte : 12 pt ;}
+
+    . caixa { largura : 26 % ; altura : 350 px ; margem :  0 automático; margem superior : 150 px ;}
+
+    . img_box { largura : 100 % ; altura : 250 px }
+
+    . box  >  p { tamanho da fonte : 10 pt }
+    
+}
+
+
+@media ( largura mínima : 1280 px ){
+
+
+    # logotipo { largura : 6 % ; margem : 7 px  20 px }  
+    
+    # menu  ul { margem esquerda :  40 % ;}
+
+    . estoques { font-size : 22 pt ; margem esquerda : 330 px }
+
+    /*Sobre---------------*/
+
+    # sobre { largura : 100 % ;}
+
+    # sobre  p { preenchimento :  42 px }
+
+    # banner-sobre { largura : 100 % ; altura : 450 px ;}
+
+    # social { altura : 52 px ;}
+
+    # face , # insta , # zap { largura : 4 % ;}
+
+    # rosto { margem esquerda : 44 % }
+
+    . caixa { largura : 26 % ; altura : 410 px ;}
+
+    . img_box { largura : 100 % ; altura : 310 px }
+
+    # repita { preenchimento :  130 px  20 px ; tamanho da fonte : 45 pt ;}
+
+    # black_friday_home { background : # 000 ; margem superior : 150 px }
+
+    # camurça  >  h2 { preenchimento :  100 px  45 px ;}
+    # camisetas  >  h2 { preenchimento :  100 px  45 px ;}
+    # curto  >  h2 { preenchimento :  100 px  45 px ;}
+    # blusas  >  h2 { enchimento :  100 px  45 px ;}
+    # manga_longa  >  h2 { preenchimento :  100 px  45 px ;}
+
+   
+}
+
+
+@media ( largura mínima : 1360 px ){
+
+    # logotipo { largura : 6 % ; margem : 5 px  20 px }
+
+    # repita { preenchimento :  160 px  20 px ; tamanho da fonte : 45 pt ;}
+
+    # btn_comprar { padding : 15 px  35 px ;}
+
+   /* @keyframes anima-text{
+        0%{transform:translateX(-170px)}
+        50%{transform:translateX(160px)}
+        100%{transform:translateX(-170px)}
+    
+    }*/
+    
+    # banner { altura : 600 px }
+     
+     # banner-sobre { largura : 100 % ; altura : 490 px ;}
+
+     # sobre { largura : 100 % ; altura : 850 px ;}
+
+     # sobre  p { preenchimento : 20 px  65 px ; tamanho da fonte : 11 pt ; altura da linha : 1,8 }
+
+     # social { altura : 55 px ; margem superior : 50 px }
+
+     # face , # insta { largura : 4 % ;}
+
+
+    . caixa { largura : 23 % ; altura : 400 px ;}
+
+    . img_box { largura : 100 % ; altura : 300 px }
+
+    . estoques { font-size : 22 pt ; margem esquerda : 370 px }
+
+    . imgs_black { largura : 85 % ;}
+
+    # camurça >  h2 { preenchimento :  100 px  70 px ;}
+    # camisetas  >  h2 { preenchimento :  100 px  70 px ;}
+    # curto  >  h2 { preenchimento :  100 px  70 px ;}
+    # blusas  >  h2 { enchimento :  100 px  70 px ;}
+    # manga_longa  >  h2 { preenchimento :  100 px  70 px ;}
+
+    #combo { largura : 90 % ; _ altura : 118 px ; margem : 30 px automático;}
+
+
+
+}
+
+
+@media ( largura mínima : 1366 px ){
+
+    # logotipo { largura : 6 % ; margem : 3 px  20 px }
+
+}
+
+
+@media ( largura mínima : 1920 px ){
+
+    principal  h2 { tamanho da fonte : 25 pt ;}
+
+    # topos { posição : fixo; largura : 100 % ; altura : px; superior : 0 ; índice z : 5 }
+
+    # topo-1 { largura : 100 % ; altura : 75 px ; plano de fundo : # 444 }
+    # topo_2 { largura : 100 % ; altura : 75 px ; plano de fundo : # ff0080 }
+
+    # topo-1_black { largura : 100 % ; altura : 75 px ; plano de fundo : # 111 }
+
+   . limites { font-family : 'Kufam' ; cor : #fff ; _ altura da linha : 75 px ; tamanho da fonte : 32 pt ; margem esquerda : 90 px ; animação : anima-text 6 s de entrada e saída infinita }
+
+   . estoques { font-size : 25 pt ; margem esquerda : 32 % ; altura da linha :  75 px }
+
+    # logotipo { largura : 7 % ; margem : 4 px  20 px }
+
+    # menu  ul { margem esquerda : 50 % ;}
+
+    # menu  li { preenchimento : 26 px ; tamanho da fonte :  14 pt ;}
+
+    # banner { largura máxima : 100 % ; altura : 900 pixels }
+
+    # repita { preenchimento :  280 px  20 px ; tamanho da fonte : 85 pt ;}
+
+    #btn_comprar { largura : 15 % ; _ preenchimento : 15 px ; tamanho da fonte :  15 pt ; margem superior :  -195 px }
+
+    /*Sobre-----*/
+
+     # sobre { altura : 1250 px ;}
+
+     # banner-sobre { largura : 100 % ; altura : 790 px ;}
+
+     # sobre  p { font-size : 17 pt ; altura da linha : 2 ; preenchimento : 0 px  70 px }
+
+     # sobre  h1 { font-size : 35 pt ; preenchimento : 20 px  0 px }
+
+     # sobre  h2 { font-size : 30 pt ; preenchimento :  20 px  0 px }
+
+     # social { altura : 80 px ; margem superior : 90 px }
+
+     . oferta_black { tamanho da fonte : 65 pt }
+
+     # black_friday { margem superior : 250 px }
+
+     # black_friday_home { margem superior : 300 px }
+
+     # black_friday_home  h1 { tamanho da fonte : 65 pt }
+
+     . link_black { tamanho da fonte : 20 pt }
+
+      vídeo { altura : 700 px ;}
+
+      . imgs_black { largura : 80 % ;}
+
+    # camurça  >  h2 { preenchimento :  160 px  75 px ;}
+    # camisetas  >  h2 { preenchimento :  160 px  75 px ;}
+    # short  >  h2 { preenchimento :  160 px  75 px ;}
+    # blusas  >  h2 { enchimento :  160 px  75 px ;}
+    # manga_longa  >  h2 { preenchimento :  160 px  75 px ;}
+
+    # suede , # camisetas , # short , # blusas , # manga_longa { altura : 850 px }
+
+    . caixa { largura : 26 % ; altura : 520 px ; margem superior :  210 px ;}
+
+    . caixa  p { tamanho da fonte : 15 pt ;}
+
+    . img_box { largura : 100 % ; altura : 450 px }
+
+    #combo { largura : 93 % ; _ altura : 165 px }
+
+    . conteudo_combo { largura : 100 % ; altura : 150 px ;}
+
+    . conteudo_combo  p { tamanho da fonte : 17 pt ; altura da linha : 150 px ;}
+
+    . precos { font-size : 15 pt ;}
+    
+   
+
+   rodapé { altura : 650 px ;; }
+
+   formulário { preenchimento : 75 px ;}
+
+   entrada { preenchimento : 18 px ; largura : 500 px ; tamanho da fonte :  13 pt ;}
+
+   botão { largura : 75 px ; altura : 53 px ;}
+
+   # ofertas { font-size :  18 pt ;}
+
+   # pagamento { margin-top : 65 px ; tamanho da fonte :  18 pt ;}
+   
+   # direitos { largura :  100 % ; plano de fundo :  # 222 ; preenchimento :  15 px }
+   
+   # direitos  >  p { font-family :  'Arial' ; cor :  #fff ; _ alinhamento de texto : centro; tamanho da fonte : 15 pt }
+   
+   # direitos  p  >  a { cor : # fff }
+}

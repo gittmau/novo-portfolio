@@ -1,0 +1,269 @@
+
+@media(min-width:360px){
+	
+	#btnFechar{margin-left:92%;padding-top:5px}
+	
+	h2{padding:100px 35px;}
+
+    #sobre{height:650px}
+
+   .box{width:300px}
+
+   #combo{width:300px}
+}
+
+@media(min-width:410px){
+
+	#sobre{height:550px}
+
+	h2{padding:100px 56px;}
+
+}
+
+
+@media(min-width:500px){
+	
+	.descontos{margin-left:0;text-align:center}
+	
+	#btnFechar{margin-left:93%}
+	
+	#banner-sobre{}
+	
+	#sobre{width:100%;height:550px;background:}
+	
+	#social{margin-top:20px;}
+	
+	#black_friday_home{background:#000;margin-top:125px}
+	
+	#suede,#camisetas,#short,#blusas,#manga_longa{flex-direction:row;width:100%;height:550px;flex-flow:wrap;margin-top:100px;margin:auto;border-radius:5px}
+	
+	h2{padding:100px 10px;}
+	
+	.box{width:32%;margin: auto;margin-top:150px;}
+
+    .img_box{width:100%;height:200px;}	
+
+    #combo{flex-direction: row;width:100%;height:120px;background:#E4D9D7;margin-top:96px;justify-content: space-between;}
+
+    .conteudo_combo{width:;animation: anima-combo 6s ease-in-out alternate infinite;margin-left: 5px}	
+
+    .conteudo_combo p{font-size:10px}
+
+    @keyframes anima-combo{
+
+     0%{transform: translateX(0%);}
+     50%{transform: translateX(100%);}
+     100%{transform: translateX(-100%);}
+    }
+}
+
+
+@media(min-width:700px){
+	
+	#btnFechar{margin-left:95%}
+}
+
+
+@media(min-width:768px){
+
+	body{background-image:url('capaNew2.jpg');background-size: cover;}
+	
+	#btnFechar{margin-left:96%}
+	
+	#banner-sobre{width:100%;height:250px}
+	
+	h2{padding:100px 15px;}
+	
+	.box{width:30%;}
+}
+
+
+@media(min-width:992px){
+	
+	#navbar{display:none}
+	
+	#menu{transform: translateX(0%);z-index:;}
+
+    #menu ul{flex-direction:row;width:100%;height:0px;background:transparent;position:relative;margin-top:0px;margin-left:25%;}
+	
+	#menu li{padding:15px}
+	
+	#menu li:hover{background:#444;}
+	
+	#repita{font-size:2.5em}	
+
+    #sobre{width:100%;height:280px;display:flex;flex-direction:row;background:;justify-content:space-evenly;margin:auto}
+
+    #comeco{margin-top: 0}
+
+    #banner-sobre{width:55%;height:300px}
+	
+	#sobre p{column-count:;width:90%;margin-top:0px;font-size:0.8em}
+
+	#social{width:15%;margin-top:100px;}
+
+	.conteudo_combo{width:260px;}	
+
+    .conteudo_combo p{font-size:15px}
+	
+	h2{padding:100px 50px;}
+	
+	.box{width:23%;}	
+	
+	#conteudo_black,#conteudo_black2,#conteudo_black3,#conteudo_black4{width:90%;display:flex;margin:auto}
+
+	/*Black friday*/
+
+	.estoques{font-size:18px;}
+}
+
+
+@media(min-width:1024px){
+	
+	body{}
+	
+	#menu ul{margin-left:22%}
+	
+	#banner{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;}
+	
+	#repita{text-align:center;padding:0px;font-size:3em}
+	
+	#btn_comprar{display: block;margin:50px auto;}
+
+    #sobre{padding:0;width:90%;height:280px;background:}
+
+    #sobre p{font-size:0.7em;margin-top:0px;border-right:1px solid magenta;background: #fff}
+	
+	#banner-sobre{height:280px}	
+
+	#social{width:10%;}
+
+	#black_friday_home{background:#000;margin-top:100px}
+	
+	h2{padding:100px 40px;}
+	
+	#suede,#camisetas,#short,#blusas,#manga_longa{width:80%;border:1px solid #ccc;margin-top: 100px;background: #f4f4f4}
+	
+	.box{width:24%;}
+	
+	.img_box{height:210px;}
+
+	footer{flex-direction: row;}
+
+	#cabide{display:block;width:30%;height:500px;background:;margin-top:40px}   
+
+    #cabide img{width:100%;display:block;margin:auto}
+	
+	
+}
+
+
+@media(min-width:1200px){
+	
+	#logotype{position: absolute;width:80px;margin:4px 45px}	
+	
+	#sobre p{font-size:14px}	
+	
+	
+	
+}
+
+
+@media(min-width:1280px){
+
+	#social{width:7%}
+	
+	#suede,#camisetas,#short,#blusas,#manga_longa{width:70%}
+
+	
+}
+
+
+@media(min-width:1366px){
+	
+	#repita{text-align:center;padding:0px;font-size:4em}
+	
+	#menu ul{margin-left:27%}
+
+	#sobre{width:80%;}
+
+	#banner-sobre{height:280px}
+
+    #sobre p{font-size:13px;column-count:2;text-align: left;text-indent: 0px;}	
+
+    h2{padding:100px 45px;}
+
+    #cabide img{width:65%;}
+
+    footer{height:px}
+}
+
+
+@media(min-width:1920px){
+	
+	#menu ul{margin-left:34%}
+	
+	#repita{font-size:4.5em}
+     
+    #banner-sobre{height:300px}
+	
+	#sobre{width:95%;height:350px;background:;}
+
+    
+    #sobre p{width:50%;margin-top:50px;font-size:18px}
+	
+	#social{width:100%;margin:50px 0px;}
+	
+	#black_friday_home{width:95%;margin:auto}	
+	
+	#combo{width:100%;margin:150px auto}
+
+	.conteudo_combo{width:360px}
+
+	.conteudo_combo p{font-size:1em}
+	
+	#suede,#camisetas,#short,#blusas,#manga_longa{margin-top:150px}
+	
+	.img_box{height:400px;}
+	
+	#manga_longa{height:700px;background:}
+
+	#cabide img{width:55%;}
+}
+
+@media(min-width:1921px){
+	
+	main{width:90%;margin:auto}
+	
+	.box{width:440px;}
+	
+	
+}
+
+
+@media(min-width:2049px){
+
+	#banner-sobre{height:350px}
+
+	#sobre p{margin-top:0px;}
+
+	#suede,#camisetas,#short,#blusas,#manga_longa{width:80%;height:750px}
+
+	h2{padding:100px 25px;} 
+}
+
+
+@media(min-width:2700px){
+
+	#sobre{width:75%;height:350px;}
+
+	h2{padding:100px;} 
+
+}
+
+
+
+
+
+
+
